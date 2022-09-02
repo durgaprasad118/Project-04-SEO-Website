@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-3-law-website.netlify.app/)
+[Live link](https://project-05-dao-website-dp1108.netlify.app/)
 
 ## Technologies Used
 
